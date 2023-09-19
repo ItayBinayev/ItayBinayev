@@ -66,6 +66,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ItayBinayev/ItayBinayev/output/snake.svg" alt="Snake animation" />
-
 ###
