@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Itay Binayev and I'm a Full-stack and game developer 😃</h1>
+<h2 align="left">Hi 👋! My name is Itay Binayev and I'm a Full-stack and game developer 😃</h2>
 
 ###
 
